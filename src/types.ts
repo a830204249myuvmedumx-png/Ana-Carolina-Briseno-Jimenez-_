@@ -48,3 +48,17 @@ export interface ReportItem {
   date: string;
   icon: 'description' | 'table_view' | 'analytics';
 }
+
+export interface GoogleUserProfile {
+  id: string;
+  name: string;
+  email: string;
+  avatar: string;
+  role: string;
+  organization: string;
+  googleId: string;
+  isActivated: boolean;
+  activatedAt: string;
+  licenseNumber: string;
+  locale: string;
+}
