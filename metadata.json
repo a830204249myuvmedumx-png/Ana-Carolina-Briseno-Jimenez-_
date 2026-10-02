@@ -1,0 +1,6 @@
+{
+  "name": "Logistica Internacional",
+  "description": "Precision Navigator - Premium global logistics command center for real-time tracking, shipping requests, and automated inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
